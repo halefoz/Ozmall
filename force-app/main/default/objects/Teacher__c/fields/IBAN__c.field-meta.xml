@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>IBAN__c</fullName>
+    <externalId>false</externalId>
+    <inlineHelpText>16 Haneli IBAN numaranizi giriniz.</inlineHelpText>
+    <label>IBAN</label>
+    <length>16</length>
+    <maskChar>X</maskChar>
+    <maskType>lastFour</maskType>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>EncryptedText</type>
+</CustomField>
